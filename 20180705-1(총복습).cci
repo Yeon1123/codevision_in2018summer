@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:4CE589A7
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:4 "C:\cvavr\inc\mega128a.h"
+NODE:V LEVEL:0 LINE:12 "led -> R5"
+NODE:F LEVEL:0 LINE:18 "main(void)"
+NODE:F LEVEL:0 LINE:73 "initial(void)"

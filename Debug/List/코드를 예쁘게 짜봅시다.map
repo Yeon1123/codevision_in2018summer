@@ -1,0 +1,25 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+led                                                                               0x0500       1
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+menu                                                                              R4,R5        2
+first_3_ON                                                                        R6,R7        2
+stop                                                                              R8,R9        2
+flag                                                                              R10,R11      2
+direction_flag                                                                    R12,R13      2
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+timer0_ovf_isr                                                                    0x00083      6
+timer0_comp_isr                                                                   0x00089     17
+main                                                                              0x0009A    150
+init                                                                              0x00130     88

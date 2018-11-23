@@ -1,0 +1,8 @@
+
+AVRASM ver. 2.1.30  C:\cvavr\BIN\Debug\List\20180712.asm Thu Jul 19 17:35:59 2018
+
+C:\cvavr\BIN\Debug\List\20180712.asm(1090): warning: Register r5 already defined by the .DEF directive
+C:\cvavr\BIN\Debug\List\20180712.asm(1091): warning: Register r4 already defined by the .DEF directive
+C:\cvavr\BIN\Debug\List\20180712.asm(1092): warning: Register r7 already defined by the .DEF directive
+C:\cvavr\BIN\Debug\List\20180712.asm(1263): error: __lcd_port: Unknown instruction or macro
+C:\cvavr\BIN\Debug\List\20180712.asm(1263): error: syntax error, unexpected '='

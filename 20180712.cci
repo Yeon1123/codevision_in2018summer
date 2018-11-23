@@ -1,0 +1,5 @@
+VERSION:3 SOURCE_TIMESTAMP:4CECB5FD
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega128.h"
+NODE:I LEVEL:0 LINE:30 "C:\cvavr\inc\lcd.h"
+NODE:I LEVEL:0 LINE:32 "C:\cvavr\inc\delay.h"
+NODE:F LEVEL:0 LINE:39 "main(void)"

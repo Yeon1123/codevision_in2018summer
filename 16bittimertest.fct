@@ -1,0 +1,2 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"16bittimertest.c" LINE:41
+timer1_compa_isr DSTACK_USAGE:1 DSTACK_LEVEL:1 FILE:"16bittimertest.c" LINE:36
